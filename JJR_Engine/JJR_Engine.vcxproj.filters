@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MyWindows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyDirectX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="jamJamRev.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyDirectX.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectSound.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="jamJamRev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+    <None Include="JJR_Engine.aps" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="originalScale\scoreBoard.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="originalScale\JJR_credits.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\aButton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\aHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\arrowDown.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\arrowLeft.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\arrowRight.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\arrowUp.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\bad.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\bButton.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\bHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\cool.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\downHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\iconJJR.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\jammin.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\JJR_Background.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\JJR_Background.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\JJR_credits.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\JJR_Menu.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\leftHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\nice.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\rightHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\scoreBoard.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\transition_1.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\transition_2.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\transition_final.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\upHit.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Assets\JJR_Controls.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Assets\CreditMusic.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Assets\MenuMusic.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Assets\songOne.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Assets\songThree.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+    <Media Include="Assets\songTwo.wav">
+      <Filter>Resource Files</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="JJR_Engine.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
