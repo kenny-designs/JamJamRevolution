@@ -1,4 +1,6 @@
-# Welcome to Jam Jam Revolution! 
+# Welcome to Jam Jam Revolution!
+
+![alt text](https://img.itch.zone/aW1hZ2UvOTAxOTAvNDIzNDAwLnBuZw==/original/OpPn5t.png)
 
 This game was made during the GBJAM 5 event. GB standing for Game Boy.
 The goal was to make a game using only 4 colors, have a resolution of
