@@ -1,4 +1,4 @@
-Welcome to Jam Jam Revolution! 
+# Welcome to Jam Jam Revolution! 
 
 This game was made during the GBJAM 5 event. GB standing for Game Boy.
 The goal was to make a game using only 4 colors, have a resolution of
@@ -8,9 +8,7 @@ Jam Jam Revolution, or just JJR for short, is a simple rhythm game about
 hitting buttons and arrows while listening to music. If you're familiar
 with games like Dance Dance Revolution or Project Diva then you'll know
 precisely what I'm going on about! If not, don't fret! Give the game a go
-yourself. It's up for download on itch.io at this link:
-	
-	https://kenny-designs.itch.io/jam-jam-revolution
+yourself. It's up for download on itch.io [here](https://kenny-designs.itch.io/jam-jam-revolution).
 	
 This game was made in about 10 days for the jam. That said, there's
 plenty of improvements that can be made! I know there are resources
@@ -28,23 +26,13 @@ five times its original size for the actual game.
 
 If you can't get the project to compile try a few things. One, make sure 
 the project's character set is multi-byte. Also, be sure you have the
-DirectX June 2010 SDK installed. You can get it here:
-	https://www.microsoft.com/en-us/download/details.aspx?id=6812
+DirectX June 2010 SDK installed. You can get it [here](https://www.microsoft.com/en-us/download/details.aspx?id=6812).
 	
-You should then have a file path that looks like so:
-	C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)
+You should then have a file path that looks like this:
+
+```
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)
+```
+
 You will need the files in both '/Include' and '/Lib/x86' in your project
 from the directory above. This is so you can use DirectX files such as d3dx9.h.
-
-I hope you have fun playing with the code and even enjoying the game
-itself! I really appreciate feedback and the like so speak up or leave
-one of those little star thingies. Farewell!
-
-You can contact me at my email alexanderman2004@yahoo.com.
-Check out more of my work at my website here:
-	http://www.kenny-designs.com/
-
-Also be sure to follow me on twitter!
-	https://twitter.com/theKennyDesigns
-	
-That's it for now. Ciao pals!
